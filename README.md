@@ -1,4 +1,4 @@
-# 🎨 Seaborn – Statistical Data Visualization for Data Analytics
+# 🎨 Seaborn – Statistical Data Visualization for Data Analytics  
 
 <p align="center">
   <b>Advanced Statistical Visualization Built on Matplotlib for Insightful Data Analysis</b>
